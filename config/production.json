@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoURI": "mongodb+srv://meckas:xxx9xxx@cluster0.8pbcr.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "maxus over the world",
+  "baseURL": "http://localhost:5000"
+}
